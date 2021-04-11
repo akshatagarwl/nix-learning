@@ -8,9 +8,6 @@
 - [Nix Fundamentals](https://youtu.be/m4sv2M9jRLg) (Video)
 - [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 - [What Is Nix](https://shopify.engineering/what-is-nix)
-- [Building with Nix Flakes for, eh ..
-  reasons!](https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/) -
-  Yannik Sander
 - [Getting Started With Nix: Introduction](https://nasirhm.github.io/2020/getting-started-with-nix-introduction/) -
   Nasir Hussain
 - [Lightning Introduction to Nix for
@@ -82,7 +79,6 @@
   Jonas Chevalier
 - [Deploying Kubernetes apps with KubeNix](https://zimbatm.com/deploying-k8s-apps-with-kubenix) -
   Jonas Chevalier
-- [Nix Flakes edition](https://zimbatm.com/NixFlakes/) - Jonas Chevalier
 - [Nix - A One Pager](https://github.com/tazjin/nix-1p) - Vincent Ambo
 - [Moving into NixOS](https://foo-dogsquared.github.io/blog/posts/moving-into-nixos/) -
   Gabriel Arazas
@@ -130,6 +126,12 @@
   Mattia Gheda
 - [caching your nix-shell](https://fzakaria.com/2020/08/11/caching-your-nix-shell.html) -
   Farid Zakaria
+
+## Nix Flakes
+- [Building with Nix Flakes for, eh ..
+  reasons!](https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/) -
+  Yannik Sander
+- [Nix Flakes edition](https://zimbatm.com/NixFlakes/) - Jonas Chevalier
 
 ## Experience
 
