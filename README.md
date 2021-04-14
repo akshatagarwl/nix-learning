@@ -6,7 +6,7 @@
 ## Uncategorized
 
 - [Nix Fundamentals](https://youtu.be/m4sv2M9jRLg) (Video)
-- [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
+- [A Nix terminology primer by a newcomer](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html) - Stéphan Kochen
 - [What Is Nix](https://shopify.engineering/what-is-nix)
 - [Getting Started With Nix: Introduction](https://nasirhm.github.io/2020/getting-started-with-nix-introduction/) -
   Nasir Hussain
