@@ -1,4 +1,4 @@
-# Nix Reading List
+# nix-learning
 
 <!-- TODO: Add author in every links -->
 <!-- TODO: Add nixology videos -->
