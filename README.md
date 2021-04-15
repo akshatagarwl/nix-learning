@@ -104,10 +104,6 @@
 - [Inspecting Nix lambda function named
   arguments](https://ops.functionalalgebra.com/2018/04/18/inspecting-nix-lambda-named-arguments/) -
   Susan Potter
-- [Aspell with custom dictionaries configured]() -
-- []() -
-- []() -
-- []() -
 
 <!-- TODO: add Tweag Nix flakes -->
 
@@ -156,15 +152,18 @@
 - [Setting up a C++ project environment with
   nix](https://blog.galowicz.de/2019/04/17/tutorial_nix_cpp_setup/) - Jacek
   Galowicz
+  
+### Rust
+
+- Managing Rust Dependencies with Nix - James Kay
+  - [Part 1](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
+  - [Part 2](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
+
 
 ## Series
 
 - Nix by Example - James Fisher
   - [Part 1: The Nix expression language](https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55)
-
-- Managing Rust Dependencies with Nix - James Kay
-  - [Part 1](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
-  - [Part 2](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
 
 - Ian Henry's _How to Learn Nix_ series
   - [Part 1: What's all this about?](https://ianthehenry.com/posts/how-to-learn-nix/introduction/)
